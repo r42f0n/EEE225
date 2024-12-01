@@ -1,1 +1,13 @@
-# EEE225
+java c
+Department of Electronic and Electrical Engineering
+EEE225 Semiconductors for Electronics and   Devices
+Problem Sheet 31.   The current at room temperature (20°C) in a certain p-n junction is 2 × 10-7A when a large reverse bias is applied. Calculate the current flow for a forward bias of 0.1 V.2.   An ideal silicon p-n junction diode has a reverse saturation current of 30μA at a temperature of l25°C. Find the dynamic (slope) resistance of the diode for a voltage 0.2V applied in (a) the forward direction, and (b) the reverse direction. Comment on the results.3.   A p-n junction diode has an observed saturation current of 1μA at room temperature. Find the junction voltage corresponding to a forward current of (a) 1mA, and (b) l0mA.The diode is constructed with material of conductivity 2000S/m on the p-type side and 500S/m on the n-type side. The diode is 2mm long (with the junction at the centre of this length) and 1 × 0.5mm2   in cross-section. Find the total voltages applied corresponding to currents (a) and (b) above, including the resistive drops in the n- and p-type regions, comment of the results.4.   A certain germanium rectifier has a reverse saturation current of 1μA compared with    l0-8A for a similar-sized rectifier made of silicon. Compare the theoretical forward voltages dropped across the two rectifiers when each carries a current of l00mA at room temperature. By how much would an effecti代 写EEE225 Semiconductors for Electronics and Devices Problem Sheet 3Matlab
+代做程序编程语言ve bulk resistance of 1Ω increase the forward voltage drop in each case?5.   In a certain metal/n-type semiconductor Schottky barrier diode, the reverse bias saturation current is 3μA. The diode is connected in series with a resistor across a d.c. source of 0.2V, such that the diode is forward biased and 0.1V is dropped across the resistor. Find the value of the resistor. (Assume operation at room temperature = 20°C).6.   A Schottky diode passes a forward current of l0mA when a bias of 0.25V is applied at room temperature (300K). What voltage is required to double this current? Also, estimate the maximum reverse current for reverse bias voltages less than the breakdown voltage.7.   The dynamic (slope) resistance of a Schottky diode at 300K is measured when forward biased with 0.25V. What applied forward voltage would double the slope resistance?8.   A certain device consists of an n-type semiconductor, of work function 1eV, sandwiched between two metal contacts, M1 having work function 2eV and M2 having work function 0.5eV. At a temperature of 290K, the resistance of the bulk semiconductor between the contacts is 2Ω. When a voltage of 1V is applied between M1 and M2, with M1 positive, 350mA flows. What current will flow when the polarity of the voltage is reversed, its magnitude remaining the same? (Ignore the resistance of the metal contacts).
+   
+
+
+
+
+
+         
+加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
